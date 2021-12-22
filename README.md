@@ -1,6 +1,6 @@
 Hi there, I'm saitho! 👋
 
-Hi, I'm Shinsuke Saito is a UI / UX designer loves baseball of Tokyo.
+Hi, I'm Shinsuke Saito is a front-end engineer loves baseball of Tokyo.
 
 Languages and Tools<br>
 HTML / CSS / SASS / JavaScript / Vue.js<br><br>
