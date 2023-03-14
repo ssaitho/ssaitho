@@ -1,7 +1,3 @@
-Hi there, I'm saitho! 👋
-
-Hi, I'm Shinsuke Saito is a front-end engineer loves baseball of Tokyo.
-
 Languages and Tools<br>
 HTML | CSS | JS | TS | React | Next | TailWindCSS | Design System
 
